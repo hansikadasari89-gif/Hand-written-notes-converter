@@ -78,9 +78,6 @@ http://127.0.0.1:5000
 4. A handwritten PDF is generated.
 5. Download the generated handwritten notes.
 
-## 📸 Screenshots
-
-Add screenshots or sample outputs here.
 
 ## 🎯 Learning Outcomes
 

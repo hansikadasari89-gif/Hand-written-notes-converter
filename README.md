@@ -87,5 +87,7 @@ http://127.0.0.1:5000
 - Working with custom fonts
 - Backend and frontend integration
 
-## Author 
-Dasari Hansika Reddy
+# 👩‍💻 Author
+" Dasari Hansika Reddy"
+- AI & ML Engineering Student
+

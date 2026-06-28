@@ -90,14 +90,5 @@ Add screenshots or sample outputs here.
 - Working with custom fonts
 - Backend and frontend integration
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
-
-## 📄 License
-
-This project is developed for educational and learning purposes.
-
----
-
-⭐ If you found this project useful, please consider giving it a star on GitHub!
+## Author 
+Dasari Hansika Reddy

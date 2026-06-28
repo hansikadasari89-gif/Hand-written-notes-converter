@@ -43,7 +43,7 @@ Hand-writing-notes/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/hand-writing-notes.git
+https://github.com/hansikadasari89-gif/Hand-written-notes-converter
 ```
 
 ### 2. Navigate to the project folder
